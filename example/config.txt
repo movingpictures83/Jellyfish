@@ -1,0 +1,2 @@
+Prefix plugins/Jellyfish/example/
+Plugin Jellyfish inputfile parameters.txt outputfile .
